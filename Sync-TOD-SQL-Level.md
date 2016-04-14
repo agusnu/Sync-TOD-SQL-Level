@@ -1,9 +1,9 @@
 # Sync-TOD-SQL-Level
 
 
-/*SYNC ATB02 LEVEL SQL*/
+/****SYNC ATB02 LEVEL SQL*****/
 
-/*Fungsi keperluan transasaksi*/
+/*****Fungsi keperluan transasaksi*****/
 
 USE [MIS]
 GO
@@ -339,5 +339,5 @@ GO
 
 exec dbo.uspSyncATB02
 
-/*Jalankan SP dbo.uspSyncATB02 menggunakan job sql server agent pada jam tutup shift (6-7, 14-15, 22-23) setiap 3 menit sekali*/
+/*****Jalankan SP dbo.uspSyncATB02 menggunakan job sql server agent pada jam tutup shift (6-7, 14-15, 22-23) setiap 3 menit sekali*****/
 
