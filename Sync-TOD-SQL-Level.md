@@ -3,7 +3,7 @@
 
 /****SYNC ATB02 LEVEL SQL*****/
 
-/*****Fungsi keperluan transasaksi*****/
+/*****Fungsi keperluan transaksi*****/
 
 USE [MIS]
 GO
